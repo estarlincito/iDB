@@ -520,11 +520,19 @@
     "addedAt": 1732754535000
   },
   {
-    "title": "Spider-Man 2002 | 0:35:45",
+    "title": "Spider-Man 2 | 0:35:45",
     "quote": "With great power comes great responsibility!",
     "author": "Uncle Ben",
     "url": "#",
     "tags": ["movie"],
     "addedAt": 1735178552000
+  },
+  {
+    "title": "Spider-Man 3 | 02:11:45",
+    "quote": "Whatever comes our way, whatever battle we have raging inside us, we always have a choice. It is our choices that make us who we are, and we always have a choice to do what's right.",
+    "author": "Peter Parker",
+    "url": "#",
+    "tags": ["movie"],
+    "addedAt": 1735433635000
   }
 ]
