@@ -639,6 +639,15 @@
     "id": 71
   },
   {
+    "title": "Finance tips",
+    "quote": "Always do your own research and never invest more than you can afford to lose",
+    "author": "Anonymous",
+    "url": "#",
+    "tags": ["finance"],
+    "addedAt": 1737503121000,
+    "id": 0
+  },
+  {
     "title": "Classroom of the Elite | E6 18:55",
     "quote": "And honestly, I just want to have a normal life",
     "author": "Ayanokoji",
@@ -655,5 +664,87 @@
     "tags": ["anime"],
     "addedAt": 1737251523000,
     "id": 73
+  },
+  {
+    "title": "Classroom of the Elite | S2 E1 00:00",
+    "quote": "Remember to keep a clear head in difficult times",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737309572000,
+    "id": 74
+  },
+  {
+    "title": "Classroom of the Elite | S2 E5 00:00",
+    "quote": "Every failure is a step to success",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737430780000,
+    "id": 75
+  },
+  {
+    "title": "Classroom of the Elite | S2 E6 10:35",
+    "quote": "I'll never give up, no matter what",
+    "author": "Horikita",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737432820000,
+    "id": 76
+  },
+  {
+    "title": "Classroom of the Elite | S2 E9 00:00",
+    "quote": "If you make a mistake and do not correct it, this is called a mistake",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737464587000,
+    "id": 77
+  },
+  {
+    "title": "Classroom of the Elite | S2 E11 00:00",
+    "quote": "A man who cannot command himself will always be a slave",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737472189000,
+    "id": 78
+  },
+  {
+    "title": "Classroom of the Elite | S3 E09 08:30",
+    "quote": "Getting angry won't solve anything",
+    "author": "Horikita",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737772967000,
+    "id": 79
+  },
+  {
+    "title": "Classroom of the Elite | S3 E11 00:00",
+    "quote": "There is only one rule in love: bring happiness to those you love",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737858620000,
+    "id": 80
+  },
+
+  {
+    "title": "Classroom of the Elite | S3 E13 00:00",
+    "quote": "Love is the best teacher",
+    "author": "Ayanokoji",
+    "url": "#",
+    "tags": ["anime"],
+    "addedAt": 1737862822000,
+    "id": 81
+  },
+  {
+    "title": "Accepting the situation",
+    "quote": "Getting overthinking won't solve anything",
+    "author": "Estarlincito",
+    "url": "#",
+    "tags": ["well-being"],
+    "addedAt": 1737773082000,
+    "id": 82
   }
 ]
