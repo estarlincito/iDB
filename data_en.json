@@ -306,7 +306,7 @@
   {
     "title": "Being alone is better than being used",
     "quote": "Being alone is better than being used",
-    "author": "#",
+    "author": "Anonymous",
     "url": "",
     "tags": ["well-being", "self-love"],
     "addedAt": 1730559092000
@@ -679,5 +679,13 @@
     "url": "#",
     "tags": ["well-being"],
     "addedAt": 1738199023000
+  },
+  {
+    "title": "The real adventure",
+    "quote": "Maybe the real adventure is this: finding a way to move forward despite uncertainty and discovering meaning in the journey",
+    "author": "Estarlincito",
+    "url": "#",
+    "tags": ["well-being"],
+    "addedAt": 1738282694000
   }
 ]
